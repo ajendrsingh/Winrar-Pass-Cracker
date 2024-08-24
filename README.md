@@ -1,127 +1,71 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WinRarPassCrack</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            color: #00ff00;
-            font-family: 'Courier New', Courier, monospace;
-            background-color: #000000;
-            overflow-x: hidden;
-        }
+# ⚡ WinRarPassCrack ⚡
 
-        a {
-            color: #00ff00;
-            text-decoration: none;
-        }
+![Cyberpunk Header](https://media.giphy.com/media/26FffNw7k7SQmYZcE/giphy.gif)
 
-        a:hover {
-            color: #ff0000;
-            text-decoration: underline;
-        }
+## **Your Ultimate Tool for Password Recovery**
 
-        .container {
-            max-width: 1200px;
-            margin: auto;
-            padding: 20px;
-        }
+**WinRarPassCrack** is a cutting-edge tool designed to recover lost passwords from `.rar`, `.zip`, and `.7z` files. Whether you need to retrieve a forgotten password or unlock an encrypted archive, this tool has got you covered with speed and efficiency.
 
-        .banner {
-            background: linear-gradient(to right, #1c5280, #0f0f0f);
-            color: #00ff00;
-            padding: 20px;
-            text-align: center;
-            border-bottom: 3px solid #ff0000;
-        }
+---
 
-        .banner h1 {
-            margin: 0;
-            font-size: 2em;
-            font-weight: bold;
-        }
+## 🚀 **Features**
 
-        .banner p {
-            margin: 0;
-            font-size: 1.2em;
-        }
+- **🌐 Multi-Format Support:** Seamlessly cracks `.rar`, `.zip`, and `.7z` archives.
+- **⚡ Speedy Recovery:** Optimized algorithms for fast password decryption.
+- **💻 User-Friendly Interface:** Navigate with ease through a clean and intuitive UI.
+- **🔀 Cross-Compatibility:** Works flawlessly on both 32-bit and 64-bit systems.
 
-        .content {
-            background-color: #222222;
-            padding: 20px;
-            border: 1px solid #444444;
-            border-radius: 5px;
-            color: #00ff00;
-        }
+---
 
-        .content table {
-            width: 100%;
-            border-collapse: collapse;
-        }
+## 🛠 **Prerequisites**
 
-        .content table th,
-        .content table td {
-            border: 1px solid #444444;
-            padding: 10px;
-        }
+Before diving into the cyber realm, make sure you have:
 
-        .footer {
-            background-color: #000000;
-            color: #00ff00;
-            text-align: center;
-            padding: 10px;
-            border-top: 1px solid #444444;
-        }
+- [Microsoft .NET Framework 4.7.2 (x86 and x64)](https://dotnet.microsoft.com/download/dotnet-framework) installed.
 
-        @media (max-width: 768px) {
-            .banner h1 {
-                font-size: 1.5em;
-            }
+> **Note:** If these components are already installed, [launch the application](WinRarPassCrack.application) directly. Otherwise, click the installation button below.
 
-            .content {
-                padding: 10px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="banner">
-            <h1>WinRarPassCrack</h1>
-            <p>Your ultimate tool for password recovery</p>
-        </div>
+---
 
-        <div class="content">
-            <table>
-                <tr>
-                    <th>Name</th>
-                    <td>WinRarPassCrack</td>
-                </tr>
-                <tr>
-                    <th>Version</th>
-                    <td>1.0.0.1</td>
-                </tr>
-                <tr>
-                    <th>Publisher</th>
-                    <td>Blackhatking |TechAjen</td>
-                </tr>
-            </table>
+## 🌀 **Installation**
 
-            <h2>Prerequisites</h2>
-            <ul>
-                <li>Microsoft .NET Framework 4.7.2 (x86 and x64)</li>
-            </ul>
-            <p>If these components are already installed, you can <a href="WinRarPassCrack.application">launch</a> the application now. Otherwise, click the button below to install the prerequisites and run the application.</p>
-            
-            <a href="setup.exe" style="display: inline-block; background: #00ff00; color: #000000; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Install</a>
-        </div>
+1. **Download the [setup.exe](setup.exe).**
+2. **Run the installer** and follow the on-screen prompts to get started.
+3. **Launch WinRarPassCrack** and enter the world of password recovery.
 
-        <div class="footer">
-            <p><a href="https://go.microsoft.com/fwlink/?LinkId=154571">ClickOnce and .NET Framework Resources</a></p>
-        </div>
-    </div>
-</body>
-</html>
+---
+
+## 🎮 **Usage**
+
+1. **Open the Application.**
+2. **Select the Archive** you need to crack (supports `.rar`, `.zip`, `.7z`).
+3. **Start the Cracking Process** and let the tool work its magic.
+4. **Retrieve the Password** and unlock your archive.
+
+![Cracking Animation](https://media.giphy.com/media/3ohhwE5p9St7zTHu0Q/giphy.gif)
+
+---
+
+## 🔒 **Security**
+
+Your security is our priority. **WinRarPassCrack** has been scanned with [VirusTotal](https://www.virustotal.com/) to ensure it is free of malware and safe to use.
+
+---
+
+## 👨‍💻 **Author**
+
+- **Blackhatking** | [TechAjen](https://blackhatking.tech)
+
+---
+
+## ⚠️ **Disclaimer**
+
+This tool is intended for **educational purposes only**. Use it responsibly and only on files that you own or have explicit permission to access.
+
+---
+
+## 📝 **License**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+![Cyberpunk Footer](https://media.giphy.com/media/l2Je3aE4UO3sLbJUk/giphy.gif)
